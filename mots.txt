@@ -1,0 +1,5 @@
+soleil
+chien
+maison
+voiture
+ordinateur
